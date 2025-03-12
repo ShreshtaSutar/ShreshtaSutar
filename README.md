@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning ML, AI, Deep Learning, Computer Vision<br><br>👨‍💻 Pursuing M.Sc. in Scientific Computing - Department of SCSM (Pune University)<br><br>💬 Ask me about Python, Machine Learning, Data Science and NLP<br><br>📫 How to reach me gmail: shreshtasutar214@gmail.com<br><br></p>
+<h4 align="left">🌱 I’m currently learning ML, AI, Deep Learning, Computer Vision<br><br>👨‍💻 Pursuing M.Sc. in Scientific Computing - Department of SCSM (Pune University)<br><br>💬 Ask me about Python, Machine Learning, Data Science and NLP<br><br>📫 How to reach me gmail: shreshtasutar214@gmail.com<br><br></h4>
 
 ###
 
