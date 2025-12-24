@@ -1,4 +1,3 @@
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreshta+Sutar;Data+Scientist+|+Data+Analyst" />
 </h2>
@@ -21,7 +20,7 @@
 ---
 
 ## 👨‍💻 ABOUT ME
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="65%" valign="top">
 
@@ -41,7 +40,7 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
 </td>
 </tr>
 </table>
-
+<br>
 ---
 
 ## 🛠️ TECHNICAL SKILLS
