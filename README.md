@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreshta+Sutar;Data+Scientist+|+Data+Analyst+|+Machine+Learning+|+Generative+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreshta+Sutar;Data+Scientist+|+Data+Analyst" />
 </h2>
 
 <p align="center">
@@ -20,7 +20,10 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
+<table>
+<tr>
+<td width="65%" valign="top">
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
@@ -32,10 +35,18 @@ I build practical AI and data-driven applications with a strong focus on **LLM-b
 My work includes developing browser-based AI agents, text-to-PPT automation tools, virtual teaching assistants, and predictive ML models.
 I enjoy turning complex data and AI capabilities into clean, usable systems through thoughtful design and robust workflows.
 
+</td>
+<td width="35%" align="center">
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ TECHNICAL SKILLS
 
 ### 👨‍💻 Programming & Query Languages
 
@@ -45,6 +56,7 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"/>
 </p>
 
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### 🤖 AI, Machine Learning & Data Science
 
@@ -56,28 +68,31 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="Seaborn"/>
 </p>
 
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### 🧠 Generative AI / LLM Ecosystem
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="42" alt="OpenAI"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" height="42" alt="Gemini"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="42" alt="Claude"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" height="38" alt="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg" height="38" alt="Google Gemini"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" height="38" alt="Anthropic Claude"/>
 </p>
 
 <p>
-LLM Applications · Prompt Engineering · Structured JSON Outputs · RAG · Embeddings
+LLM Applications  ·  Prompt Engineering  ·  Structured JSON Outputs  ·  RAG  ·  Embeddings
 </p>
 
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### 📊 Machine Learning Concepts & Models
 
 <p>
-Regression · Classification · Feature Engineering · EDA ·  
-Ensemble Models · Gradient Boosting · XGBoost · LightGBM ·  
-Model Evaluation (RMSE, R², F1-score) · Cross-Validation
+Regression  ·  Classification  ·  Feature Engineering  ·  EDA  ·  
+Ensemble Models  ·  Gradient Boosting  ·  XGBoost  ·  LightGBM  ·  
+Model Evaluation (RMSE, R², F1-score)  ·  Cross-Validation
 </p>
 
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### ⚙️ Tools & Development Environment
 
@@ -88,41 +103,45 @@ Model Evaluation (RMSE, R², F1-score) · Cross-Validation
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45" alt="Streamlit"/>
 </p>
 
-
-
 ---
 
-## 🚀 Projects
+## 🚀 PROJECTS
 
 ### ✨ DataPilot – Data Analyst Agent  
 **Tech Stack:** Python, FastAPI, Pandas, NumPy, Matplotlib, Seaborn, LangChain, Google Gemini API, HTML/CSS/JavaScript, Docker
 - An AI-powered data analysis agent that automatically processes uploaded datasets and questions to perform exploratory data analysis, generate visualizations, and produce actionable insights.
 - Supports multiple data formats (CSV, Excel, JSON, Parquet) with dynamic chart generation and structured analytical outputs.
 - Designed with a robust backend pipeline including LLM-based reasoning, fallback mechanisms, and safe execution for reliable data-driven decision support.
-**🔗 Repository:** https://github.com/ShreshtaSutar/DataPilot__Data-Analyst-Agent
+  **🔗 Repository:** https://github.com/ShreshtaSutar/DataPilot__Data-Analyst-Agent
+
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### ✨ TDS Mentor - Virtual Teaching Assistant
 **Tech Stack:** FastAPI, Python, SQLite, Retrieval-Augmented Generation (RAG), GPT-4o-mini, OpenAI Embeddings, aiohttp, BeautifulSoup, Playwright
 - An AI-powered virtual teaching assistant built for the Tools in Data Science course at IIT Madras.
 Implements a full RAG pipeline to retrieve relevant course and forum content before generating accurate, source-backed answers.
 - Supports multimodal queries (text + image), semantic search using embeddings, and robust error-handled async processing.
-**🔗 Repository:** https://github.com/ShreshtaSutar/TDS-Mentor__Virtual-Teaching-Assistant
+  **🔗 Repository:** https://github.com/ShreshtaSutar/TDS-Mentor__Virtual-Teaching-Assistant
+
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### ✨ GyaanSarita — Browser Based LLM Agent 
 **Tech Stack:** JavaScript, Large Language Models (OpenAI / Gemini / Claude), AI Pipe Proxy, LLM Function Calling, REST APIs, JSON, Browser APIs
 - Built a browser-based AI agent that uses LLM reasoning loops and OpenAI-style tool calling to perform multi-step tasks.
 - Integrated multiple LLM providers with dynamic model switching, structured tool execution, and file-based data handling.
 - Designed an extensible AI-agent architecture suitable for data workflows, automation, and LLM-powered analysis. 
-**🔗 Repository:** https://github.com/ShreshtaSutar/GyaanSarita__browser-based-LLM-agent
+  **🔗 Repository:** https://github.com/ShreshtaSutar/GyaanSarita__browser-based-LLM-agent
+
+<img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
 
 ### ✨ Prastuti — PPT Generator from Text 
 **Tech Stack:** FastAPI, Python, LLM APIs (OpenAI / Gemini / Claude / AI Pipe), HTML, CSS, JavaScript, python-pptx
 - An AI-powered web application that converts raw text or markdown into professionally structured PowerPoint presentations.
 - Supports custom PPT templates, smart slide planning, and safe image reuse without overlapping content.
 - Designed as a fast, privacy-first, serverless product with a clean UI and instant PPT generation.
-**🔗 Repository:** https://github.com/ShreshtaSutar/Prastuti__PPT-Generator-from-Text
+  **🔗 Repository:** https://github.com/ShreshtaSutar/Prastuti__PPT-Generator-from-Text
 
 
 ---
 
-🧘 **Fun fact:** *I’m building AI agents today so that eventually they can update this GitHub profile for me.*
+😅🤫 **Fun fact:** *I’m building AI agents today so that eventually they can update this GitHub profile for me.*
