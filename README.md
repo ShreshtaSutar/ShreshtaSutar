@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreshta+Sutar;Data+Scientist+|+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreshta+Sutar;Data+Science+|+Data+Analysis" />
 </h2>
 
 <p align="center">
@@ -16,12 +16,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
-
+---
 
 ## 👨‍💻 ABOUT ME
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top">
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 🎓 <b>Pursuing M.Sc. in Scientific Computing</b><br>
 🏫 <b>Department of SCSM, Savitribai Phule Pune University</b>
@@ -31,17 +30,10 @@ I build practical AI and data-driven applications with a strong focus on **LLM-b
 My work includes developing browser-based AI agents, text-to-PPT automation tools, virtual teaching assistants, and predictive ML models.
 I enjoy turning complex data and AI capabilities into clean, usable systems through thoughtful design and robust workflows.
 
-</td>
-<td width="35%" align="center">
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-</td>
-</tr>
-</table>
 
 <br>
-
+---
 
 ## 🛠️ TECHNICAL SKILLS
 
@@ -70,9 +62,9 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
 ### 🧠 Generative AI / LLM Ecosystem
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" height="34" alt="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg" height="34" alt="Google Gemini"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" height="34" alt="Anthropic Claude"/>
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+  ![Anthropic Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 </p>
 
 <p>
