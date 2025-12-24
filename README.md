@@ -17,7 +17,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 ABOUT ME
 <table border="0" cellspacing="0" cellpadding="0">
@@ -43,7 +42,6 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
 
 <br>
 
----
 
 ## 🛠️ TECHNICAL SKILLS
 
@@ -72,9 +70,9 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
 ### 🧠 Generative AI / LLM Ecosystem
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" height="38" alt="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg" height="38" alt="Google Gemini"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" height="38" alt="Anthropic Claude"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" height="34" alt="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg" height="34" alt="Google Gemini"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" height="34" alt="Anthropic Claude"/>
 </p>
 
 <p>
