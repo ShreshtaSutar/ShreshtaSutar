@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
+
 ---
 
 ## 👨‍💻 ABOUT ME
@@ -31,8 +32,9 @@ My work includes developing browser-based AI agents, text-to-PPT automation tool
 I enjoy turning complex data and AI capabilities into clean, usable systems through thoughtful design and robust workflows.
 
 
-
 <br>
+<br>
+
 ---
 
 ## 🛠️ TECHNICAL SKILLS
@@ -61,11 +63,9 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
 
 ### 🧠 Generative AI / LLM Ecosystem
 
-<p align="left">
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Google Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-  ![Anthropic Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 
 <p>
 LLM Applications  ·  Prompt Engineering  ·  Structured JSON Outputs  ·  RAG  ·  Embeddings
