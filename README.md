@@ -100,7 +100,7 @@ Model Evaluation (RMSE, R², F1-score)  ·  Cross-Validation
 **Tech Stack:** Python, FastAPI, Pandas, NumPy, Matplotlib, Seaborn, LangChain, Google Gemini API, HTML/CSS/JavaScript, Docker
 - An AI-powered data analysis agent that automatically processes uploaded datasets and questions to perform exploratory data analysis, generate visualizations, and produce actionable insights.
 - Supports multiple data formats (CSV, Excel, JSON, Parquet) with dynamic chart generation and structured analytical outputs.
-- Designed with a robust backend pipeline including LLM-based reasoning, fallback mechanisms, and safe execution for reliable data-driven decision support.
+- Designed with a robust backend pipeline including LLM-based reasoning, fallback mechanisms, and safe execution for reliable data-driven decision support.<br>
   **🔗 Repository:** https://github.com/ShreshtaSutar/DataPilot__Data-Analyst-Agent
 
 <img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
@@ -109,7 +109,7 @@ Model Evaluation (RMSE, R², F1-score)  ·  Cross-Validation
 **Tech Stack:** FastAPI, Python, SQLite, Retrieval-Augmented Generation (RAG), GPT-4o-mini, OpenAI Embeddings, aiohttp, BeautifulSoup, Playwright
 - An AI-powered virtual teaching assistant built for the Tools in Data Science course at IIT Madras.
 Implements a full RAG pipeline to retrieve relevant course and forum content before generating accurate, source-backed answers.
-- Supports multimodal queries (text + image), semantic search using embeddings, and robust error-handled async processing.
+- Supports multimodal queries (text + image), semantic search using embeddings, and robust error-handled async processing.<br>
   **🔗 Repository:** https://github.com/ShreshtaSutar/TDS-Mentor__Virtual-Teaching-Assistant
 
 <img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
@@ -118,7 +118,7 @@ Implements a full RAG pipeline to retrieve relevant course and forum content bef
 **Tech Stack:** JavaScript, Large Language Models (OpenAI / Gemini / Claude), AI Pipe Proxy, LLM Function Calling, REST APIs, JSON, Browser APIs
 - Built a browser-based AI agent that uses LLM reasoning loops and OpenAI-style tool calling to perform multi-step tasks.
 - Integrated multiple LLM providers with dynamic model switching, structured tool execution, and file-based data handling.
-- Designed an extensible AI-agent architecture suitable for data workflows, automation, and LLM-powered analysis. 
+- Designed an extensible AI-agent architecture suitable for data workflows, automation, and LLM-powered analysis.<br> 
   **🔗 Repository:** https://github.com/ShreshtaSutar/GyaanSarita__browser-based-LLM-agent
 
 <img src="https://placehold.co/15x1/808080/808080.png" width="100%" height="1" alt="">
@@ -127,10 +127,10 @@ Implements a full RAG pipeline to retrieve relevant course and forum content bef
 **Tech Stack:** FastAPI, Python, LLM APIs (OpenAI / Gemini / Claude / AI Pipe), HTML, CSS, JavaScript, python-pptx
 - An AI-powered web application that converts raw text or markdown into professionally structured PowerPoint presentations.
 - Supports custom PPT templates, smart slide planning, and safe image reuse without overlapping content.
-- Designed as a fast, privacy-first, serverless product with a clean UI and instant PPT generation.
+- Designed as a fast, privacy-first, serverless product with a clean UI and instant PPT generation.<br>
   **🔗 Repository:** https://github.com/ShreshtaSutar/Prastuti__PPT-Generator-from-Text
 
 
 ---
 
-😅🤫 **Fun fact:** *I’m building AI agents today so that eventually they can update this GitHub profile for me.*
+😅🤫 **Fun fact:**  *I’m building AI agents today so that eventually they can update this GitHub profile for me.*
