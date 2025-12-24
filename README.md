@@ -40,7 +40,9 @@ I enjoy turning complex data and AI capabilities into clean, usable systems thro
 </td>
 </tr>
 </table>
+
 <br>
+
 ---
 
 ## 🛠️ TECHNICAL SKILLS
