@@ -25,8 +25,6 @@
 <tr>
 <td width="65%" valign="top">
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
 🎓 <b>Pursuing M.Sc. in Scientific Computing</b><br>
 🏫 <b>Department of SCSM, Savitribai Phule Pune University</b>
 
